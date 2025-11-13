@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tibi-nine.vercel.app/sitemap.xml
